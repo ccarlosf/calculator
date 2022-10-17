@@ -6,7 +6,6 @@ import org.junit.Test;
 /**
  * @description: PlanB测试类
  * @author: ccarlos
- * @date: 2022-10-17 16:38
  */
 public class PlanBTest {
 

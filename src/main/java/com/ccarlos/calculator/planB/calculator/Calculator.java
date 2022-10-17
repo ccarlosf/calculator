@@ -19,7 +19,6 @@ public abstract class Calculator {
     /**
      * @description: 撤销计算
      * @author: ccarlos
-     * @date: 2022/10/17 16:56
      * @return: void
      **/
     public abstract void undo();

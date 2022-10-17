@@ -18,7 +18,6 @@ public class CalculatorDiv extends Calculator {
     /**
      * @description: 执行运算
      * @author: ccarlos
-     * @date: 2022/10/17 16:58
      * @param: [value] 操作数
      * @return: void
      **/
@@ -29,7 +28,6 @@ public class CalculatorDiv extends Calculator {
     /**
      * @description: 撤销命令
      * @author: ccarlos
-     * @date: 2022/10/17 16:59
      * @return: void
      **/
     public void undo() {
