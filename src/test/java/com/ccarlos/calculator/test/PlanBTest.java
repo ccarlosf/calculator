@@ -38,7 +38,7 @@ public class PlanBTest {
     public void testDiv() {
         CalculateContext cc = new CalculateContext("/");
         cc.calculate(2);
-        cc.calculate(1);
+        cc.calculate(2);
         cc.undo();
     }
 }

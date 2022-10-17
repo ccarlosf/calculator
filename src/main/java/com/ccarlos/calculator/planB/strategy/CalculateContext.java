@@ -13,7 +13,13 @@ public class CalculateContext {
     private Command command = null;
     double value;
 
-    public CalculateContext(String op) {//工厂模式
+    /**
+     * @description: 工厂模式实现
+     * @author: ccarlos
+     * @date: 2022/10/17 17:31
+     * @param: [op]
+     **/
+    public CalculateContext(String op) {
         switch (op) {
             case "+":
                 calculator = new CalculatorAdd();
