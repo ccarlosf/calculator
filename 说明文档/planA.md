@@ -97,7 +97,7 @@ public class OperationFactory {
 }
 ```
 
-* 单元测试
+* 单元测试，使用断言
 ```aidl
 /**
  * @description: PlanA测试类
